@@ -1,0 +1,594 @@
+[
+    {
+        "ch": "b\u00e0ba",
+        "fr": "papa"
+    },
+    {
+        "ch": "b\u00e0o",
+        "fr": "journal"
+    },
+    {
+        "ch": "b\u0113nzi",
+        "fr": "cahier"
+    },
+    {
+        "ch": "ch\u00e1",
+        "fr": "th\u00e9"
+    },
+    {
+        "ch": "ch\u0113",
+        "fr": "vehicule à roues"
+    },
+    {
+        "ch": "g\u00f4u",
+        "fr": "chien"
+    },
+    {
+        "ch": "hu\u0101",
+        "fr": "fleur"
+    },
+    {
+        "ch": "hu\u00f4",
+        "fr": "feu"
+    },
+    {
+        "ch": "hu\u00f4ch\u0113",
+        "fr": "train"
+    },
+    {
+        "ch": "j\u012b",
+        "fr": "poulet"
+    },
+    {
+        "ch": "k\u0101f\u0113i",
+        "fr": "caf\u00e9"
+    },
+    {
+        "ch": "m\u00e2",
+        "fr": "cheval"
+    },
+    {
+        "ch": "m\u0101ma",
+        "fr": "maman"
+    },
+    {
+        "ch": "m\u0101o",
+        "fr": "chat"
+    },
+    {
+        "ch": "m\u00e1oj\u012bn",
+        "fr": "serviette de toilette"
+    },
+    {
+        "ch": "m\u00e9n",
+        "fr": "porte"
+    },
+    {
+        "ch": "m\u00f9tou",
+        "fr": "bois"
+    },
+    {
+        "ch": "ni\u00fa",
+        "fr": "vache"
+    },
+    {
+        "ch": "q\u00ecch\u0113",
+        "fr": "voiture"
+    },
+    {
+        "ch": "r\u00e9n",
+        "fr": "\u00eatre humain"
+    },
+    {
+        "ch": "r\u00f2u",
+        "fr": "viande"
+    },
+    {
+        "ch": "s\u00e2n",
+        "fr": "parapluie"
+    },
+    {
+        "ch": "sh\u0101n",
+        "fr": "montagne"
+    },
+    {
+        "ch": "sh\u00e1ozi",
+        "fr": "cuill\u00e8re"
+    },
+    {
+        "ch": "sh\u00f4u",
+        "fr": "main"
+    },
+    {
+        "ch": "sh\u016b",
+        "fr": "livre"
+    },
+    {
+        "ch": "sh\u00f9",
+        "fr": "arbre"
+    },
+    {
+        "ch": "shu\u00ee",
+        "fr": "eau"
+    },
+    {
+        "ch": "t\u0101ng",
+        "fr": "soupe"
+    },
+    {
+        "ch": "t\u00e1ng",
+        "fr": "sucre"
+    },
+    {
+        "ch": "y\u00e1ng",
+        "fr": "ch\u00e8vre"
+    },
+    {
+        "ch": "y\u012bfu",
+        "fr": "v\u00eatement"
+    },
+    {
+        "ch": "y\u00fa",
+        "fr": "poisson"
+    },
+    {
+        "ch": "zh\u014dngw\u00e9n",
+        "fr": "langue chinoise"
+    },
+    {
+        "ch": "zhu\u014dzi",
+        "fr": "table"
+    },
+    {
+        "ch": "g\u014dngzu\u00f2",
+        "fr": "travail"
+    },
+    {
+        "ch": "n\u00ee",
+        "fr": "tu"
+    },
+    {
+        "ch": "n\u00eemen",
+        "fr": "vous"
+    },
+    {
+        "ch": "t\u0101",
+        "fr": "il"
+    },
+    {
+        "ch": "t\u0101men",
+        "fr": "ils"
+    },
+    {
+        "ch": "w\u00f4",
+        "fr": "je"
+    },
+    {
+        "ch": "w\u00f4men",
+        "fr": "nous"
+    },
+    {
+        "ch": "B\u0101l\u00ed",
+        "fr": "Paris"
+    },
+    {
+        "ch": "B\u00eaij\u012bng",
+        "fr": "P\u00e9kin"
+    },
+    {
+        "ch": "F\u00e2gu\u00f3",
+        "fr": "France"
+    },
+    {
+        "ch": "Sh\u00e0ngh\u00e2i",
+        "fr": "Shanghai"
+    },
+    {
+        "ch": "Zh\u014dnggu\u00f3",
+        "fr": "Chine"
+    },
+    {
+        "ch": "y\u012b",
+        "fr": "1"
+    },
+    {
+        "ch": "\u00e8r",
+        "fr": "2"
+    },
+    {
+        "ch": "s\u0101n",
+        "fr": "3"
+    },
+    {
+        "ch": "s\u00ec",
+        "fr": "4"
+    },
+    {
+        "ch": "w\u00fb",
+        "fr": "5"
+    },
+    {
+        "ch": "li\u00f9",
+        "fr": "6"
+    },
+    {
+        "ch": "q\u012b",
+        "fr": "7"
+    },
+    {
+        "ch": "b\u0101",
+        "fr": "8"
+    },
+    {
+        "ch": "ji\u00fb",
+        "fr": "9"
+    },
+    {
+        "ch": "sh\u00ed",
+        "fr": "10"
+    },
+    {
+        "ch": "b\u00e1i",
+        "fr": "blanc"
+    },
+    {
+        "ch": "d\u00e0",
+        "fr": "grand"
+    },
+    {
+        "ch": "h\u00e2o",
+        "fr": "bien"
+    },
+    {
+        "ch": "h\u0113i",
+        "fr": "noir"
+    },
+    {
+        "ch": "n\u00e1n",
+        "fr": "masculin"
+    },
+    {
+        "ch": "n\u00fc",
+        "fr": "f\u00e9minin"
+    },
+    {
+        "ch": "xi\u00e2o",
+        "fr": "petit"
+    },
+    {
+        "ch": "k\u00eash\u00ec",
+        "fr": "mais"
+    },
+    {
+        "ch": "\u00e0i",
+        "fr": "aimer"
+    },
+    {
+        "ch": "ch\u012b",
+        "fr": "manger"
+    },
+    {
+        "ch": "gu\u0101n",
+        "fr": "fermer"
+    },
+    {
+        "ch": "h\u0113",
+        "fr": "boire"
+    },
+    {
+        "ch": "ji\u00e0o",
+        "fr": "s'appeler"
+    },
+    {
+        "ch": "k\u0101i",
+        "fr": "ouvrir"
+    },
+    {
+        "ch": "k\u00e0n",
+        "fr": "regarder"
+    },
+    {
+        "ch": "m\u00e0",
+        "fr": "insulter"
+    },
+    {
+        "ch": "m\u00e2i",
+        "fr": "acheter"
+    },
+    {
+        "ch": "m\u00e0i",
+        "fr": "vendre"
+    },
+    {
+        "ch": "p\u00e0",
+        "fr": "avoir peur de"
+    },
+    {
+        "ch": "xi\u00e2ox\u012bn",
+        "fr": "faire attention"
+    },
+    {
+        "ch": "xiuxi",
+        "fr": "se reposer"
+    },
+    {
+        "ch": "xu\u00e9",
+        "fr": "apprendre"
+    },
+    {
+        "ch": "y\u00e0o",
+        "fr": "vouloir"
+    },
+    {
+        "ch": "zh\u00f2ng",
+        "fr": "planter"
+    },
+    {
+        "ch": "zu\u00f2",
+        "fr": "faire"
+    },
+    {
+        "ch": "xi\u00e2ng",
+        "fr": "avoir envie de"
+    },
+    {
+        "ch": "x\u00eehuan",
+        "fr": "aimer bien"
+    },
+    {
+        "ch": "yu\u00e8",
+        "fr": "mois"
+    },
+    {
+        "ch": "y\u012byu\u00e8",
+        "fr": "janvier"
+    },
+    {
+        "ch": "\u00e8ryu\u00e8",
+        "fr": "fevrier"
+    },
+    {
+        "ch": "s\u0101nyu\u00e8",
+        "fr": "mars"
+    },
+    {
+        "ch": "s\u00ecyu\u00e8",
+        "fr": "avril"
+    },
+    {
+        "ch": "w\u00fbyu\u00e8",
+        "fr": "mai"
+    },
+    {
+        "ch": "li\u00f9yu\u00e8",
+        "fr": "juin"
+    },
+    {
+        "ch": "q\u012byu\u00e8",
+        "fr": "juillet"
+    },
+    {
+        "ch": "b\u0101yu\u00e8",
+        "fr": "ao\u00fbt"
+    },
+    {
+        "ch": "ji\u00fbyu\u00e8",
+        "fr": "septembre"
+    },
+    {
+        "ch": "shiyu\u00e8",
+        "fr": "octobre"
+    },
+    {
+        "ch": "shiy\u012byu\u00e8",
+        "fr": "novembre"
+    },
+    {
+        "ch": "shi\u00e8ryu\u00e8",
+        "fr": "decembre"
+    },
+    {
+        "ch": "n\u00ee h\u00e2o",
+        "fr": "bonjour"
+    },
+    {
+        "ch": "n\u00eemen h\u00e2o",
+        "fr": "bonjour (à vous)"
+    },
+    {
+        "ch": "xiexie",
+        "fr": "merci"
+    },
+    {
+        "ch": "z\u00e0iji\u00e0n",
+        "fr": "au revoir"
+    },
+    {
+        "ch": "Zhonggu\u00f3 r\u00e9n",
+        "fr": "chinois"
+    },
+    {
+        "ch": "f\u00e2gu\u00f3 r\u00e9n",
+        "fr": "fran\u00e7ais"
+    },
+    {
+        "ch": "xu\u00e9xi\u00e0\u00f2",
+        "fr": "\u00e9cole"
+    },
+    {
+        "ch": "k\u00eay\u00ee",
+        "fr": "pouvoir"
+    },
+    {
+        "ch": "n\u00e9ng",
+        "fr": "pouvoir"
+    },
+    {
+        "ch": "q\u00f9",
+        "fr": "aller"
+    },
+    {
+        "ch": "y\u00f3uy\u00f4ng",
+        "fr": "nager"
+    },
+    {
+        "ch": "zu\u00f3ti\u0101n",
+        "fr": "hier"
+    },
+    {
+        "ch": "j\u012bngj\u00f9",
+        "fr": "opera de Pekin"
+    },
+    {
+        "ch": "z\u00eanmey\u00e0ng",
+        "fr": "comment est-ce"
+    },
+    {
+        "ch": "y\u00f3u y\u00ecsi",
+        "fr": "interessant"
+    },
+    {
+        "ch": "j\u012bnti\u0101n",
+        "fr": "aujourd'hui"
+    },
+    {
+        "ch": "ti\u0101nq\u00ec",
+        "fr": "temps (weather)"
+    },
+    {
+        "ch": "t\u00e0i",
+        "fr": "extremement"
+    },
+    {
+        "ch": "sh\u00e9nme",
+        "fr": "quoi"
+    },
+    {
+        "ch": "sh\u00edhou",
+        "fr": "moment"
+    },
+    {
+        "ch": "xi\u00e0nz\u00e0i",
+        "fr": "maintenant"
+    },
+    {
+        "ch": "b\u0113izi",
+        "fr": "verre"
+    },
+    {
+        "ch": "b\u0113i",
+        "fr": "contenant"
+    },
+    {
+        "ch": "ji\u00fb",
+        "fr": "alcool"
+    },
+    {
+        "ch": "m\u00edngti\u0101n",
+        "fr": "demain"
+    },
+    {
+        "ch": "y\u00f4u",
+        "fr": "avoir"
+    },
+    {
+        "ch": "sh\u00edji\u0101n",
+        "fr": "temps"
+    },
+    {
+        "ch": "shu\u014d",
+        "fr": "dire"
+    },
+    {
+        "ch": "bi\u0101n",
+        "fr": "nombre de fois"
+    },
+    {
+        "ch": "d\u00e2",
+        "fr": "jouer"
+    },
+    {
+        "ch": "qi\u00fa",
+        "fr": "ballon"
+    },
+    {
+        "ch": "b\u00e0oqi\u00e0n",
+        "fr": "d\u00e9sol\u00e9"
+    },
+    {
+        "ch": "k\u00f4ngp\u00e0",
+        "fr": "peut-\u00eatre"
+    },
+    {
+        "ch": "x\u00edng",
+        "fr": "\u00eatre ok"
+    },
+    {
+        "ch": "y\u00e1ng",
+        "fr": "ch\u00e8vre"
+    },
+    {
+        "ch": "sh\u016b",
+        "fr": "livre"
+    },
+    {
+        "ch": "ti\u00e1n",
+        "fr": "champ"
+    },
+    {
+        "ch": "m\u00e1ng",
+        "fr": "occup\u00e9"
+    },
+    {
+        "ch": "p\u00e9ngyou",
+        "fr": "ami"
+    },
+    {
+        "ch": "b\u00f9",
+        "fr": "negation"
+    },
+    {
+        "ch": "l\u00e2osh\u012b",
+        "fr": "professeur"
+    },
+    {
+        "ch": "w\u00e0iy\u00fb",
+        "fr": "langue \u00e9trang\u00e8re"
+    },
+    {
+        "ch": "y\u012bsh\u0113ng",
+        "fr": "m\u00e9decin"
+    },
+    {
+        "ch": "n\u00e2inai",
+        "fr": "grand m\u00e8re (p\u00e8re)"
+    },
+    {
+        "ch": "w\u00e0ip\u00f3",
+        "fr": "grand m\u00e8re (m\u00e8re)"
+    },
+    {
+        "ch": "r\u0113nshi",
+        "fr": "connaitre"
+    },
+    {
+        "ch": "g\u0101oxing",
+        "fr": "heureux"
+    },
+    {
+        "ch": "j\u00ecn",
+        "fr": "entrer"
+    },
+    {
+        "ch": "l\u00e1i",
+        "fr": "venir"
+    },
+    {
+        "ch": "q\u00eeng",
+        "fr": "s'il vous plait"
+    },
+    {
+        "ch": "jizh\u00ea",
+        "fr": "journaliste"
+    }
+]
