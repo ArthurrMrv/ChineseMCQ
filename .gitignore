@@ -37,4 +37,4 @@ coverage/
 
 # Temporary files
 tmp/
-temp/
+temp/firebase-debug.log # Add to .gitignore to prevent future additions
